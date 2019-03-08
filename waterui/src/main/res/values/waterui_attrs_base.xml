@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="waterui_content_spacing_horizontal" format="dimension"/> <!-- margin 和 padding 等使用的内容通用水平间距 -->
+
+    <!--**********************************************
+    *                waterui common color               *
+    **********************************************-->
+    <attr name="waterui_config_color_blue" format="color"/>
+    <attr name="waterui_config_color_red" format="color"/>
+    <attr name="waterui_config_color_separator" format="color"/>
+    <attr name="waterui_config_color_separator_darken" format="color"/>
+    <attr name="waterui_config_color_background" format="color"/>
+    <attr name="waterui_config_color_background_pressed" format="color"/>
+    <attr name="waterui_config_color_black" format="color"/>
+    <attr name="waterui_config_color_link" format="color"/>
+    <attr name="waterui_config_color_pressed" format="color"/>
+    <attr name="waterui_config_color_gray_1" format="color"/>
+    <attr name="waterui_config_color_gray_2" format="color"/>
+    <attr name="waterui_config_color_gray_3" format="color"/>
+    <attr name="waterui_config_color_gray_4" format="color"/>
+    <attr name="waterui_config_color_gray_5" format="color"/>
+    <attr name="waterui_config_color_gray_6" format="color"/>
+    <attr name="waterui_config_color_gray_7" format="color"/>
+    <attr name="waterui_config_color_gray_8" format="color"/>
+    <attr name="waterui_config_color_gray_9" format="color"/>
+
+    <attr name="waterui_alpha_pressed" format="float"/>
+    <attr name="waterui_alpha_disabled" format="float"/>
+
+    <attr name="waterui_general_shadow_elevation" format="dimension"/>
+    <attr name="waterui_general_shadow_alpha" format="float"/>
+
+    <!--**********************************************
+   *                waterui dialog                     *
+   **********************************************-->
+    <attr name="waterui_dialog_min_width" format="dimension"/>
+    <attr name="waterui_dialog_max_width" format="dimension"/>
+    <attr name="waterui_dialog_bg" format="reference"/>
+    <attr name="waterui_dialog_radius" format="dimension"/>
+    <attr name="waterui_dialog_margin_vertical" format="dimension"/>
+    <attr name="waterui_dialog_padding_horizontal" format="dimension"/>
+    <attr name="waterui_dialog_background_dim_amount" format="float"/>
+    <attr name="waterui_dialog_wrapper_style" format="reference"/>
+    <attr name="waterui_dialog_title_style" format="reference"/>
+    <attr name="waterui_dialog_action_container_style" format="reference"/>
+    <attr name="waterui_dialog_action_style" format="reference"/>
+    <attr name="waterui_dialog_message_content_style" format="reference"/>
+    <attr name="waterui_dialog_edit_content_style" format="reference"/>
+    <attr name="waterui_dialog_menu_container_style" format="reference"/>
+    <attr name="waterui_dialog_menu_item_style" format="reference"/>
+</resources>
